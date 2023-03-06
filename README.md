@@ -3,6 +3,7 @@
 ## How to use:
 
 Add your modpacks directory and your mods directory to SVModpackManager.bat
+
 Run SVModpackManager.bat
 
 ## Adding Modpacks Directory
